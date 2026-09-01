@@ -9,6 +9,7 @@ Each directory is a self-contained skill: a `SKILL.md` the agent loads, plus a `
 | Skill | Use it when |
 |-------|-------------|
 | [company-research](company-research/) | You need to understand a company — one you don't know, or one you know and suspect you're missing something about. Evidence only, never a verdict. |
+| [buffett-valuation](buffett-valuation/) | You want to know what a whole business is worth. Intrinsic value, margin of safety, moat tier, management — four data points, no verdict. |
 
 ## Install
 

@@ -1,0 +1,16 @@
+{
+  "company": "Johnson & Johnson",
+  "as_of": "2026-09-01",
+  "moat_tier": "formidable",
+  "treasury_10y": 0.0477,
+  "years": {
+    "2021": {"revenue": 78740, "capex": 3652, "ocf": 23410, "sbc": 1135},
+    "2022": {"revenue": 79990, "capex": 3706, "ocf": 21194, "sbc": 1138},
+    "2023": {"revenue": 85159, "capex": 4381, "ocf": 22791, "sbc": 1162},
+    "2024": {"revenue": 88821, "capex": 4424, "ocf": 24266, "sbc": 1176},
+    "2025": {"revenue": 94193, "capex": 4832, "ocf": 24530, "sbc": 1354}
+  },
+  "market_cap": 653540,
+  "total_debt": 49036,
+  "cash_and_st_investments": 20758
+}
